@@ -1,0 +1,1 @@
+# CodeClauseInternship_CustomerSegmentation_KMeans
