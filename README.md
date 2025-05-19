@@ -20,8 +20,7 @@ This project applies K-Means clustering to segment customers based on their age,
    - seaborn
    - scikit-learn
 
-You can install any missing libraries using:
-pip install pandas numpy matplotlib seaborn scikit-learn
+You can install any missing libraries using: `pip install pandas numpy matplotlib seaborn scikit-learn`
 
 
 ## Project Steps
